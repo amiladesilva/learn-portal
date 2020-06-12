@@ -9,7 +9,7 @@ metaTags:
   - Winning Product
 ---
 
-## Software Product Market
+## Software Product Market-2
 
 Yearly, many ISVs (Independent Software Vendors) and Startups are investing in digital services and products to develop and sustain their business. According to a [researchandmarkets.com](https://www.researchandmarkets.com/reports/4852466/software-as-a-service-saas-global-market-report), the market size for SaaS (Software as a Service) alone worth $134.44 billion in 2018. This market expects to grow at a CAGR of 13.1% and reach $220.21 billion through 2022.
 
